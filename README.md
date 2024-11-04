@@ -24,8 +24,8 @@
 <summary><b> 🌻 Contáctos</b></summary>
 
 * thekingdestroy507@gmail.com
-* https://wa.me/584120346669
-* https://wa.me/584128382768
+* https://wa.me/50374349804
+* https://wa.me/50374349804
 
 </details>
 
@@ -151,9 +151,9 @@ href="https://dash.skyultraplus.com/home"><img src="https://qu.ax/zFzXF.png" hei
 
 * Dashboard  [`Dash`](https://dash.skyultraplus.com)
 * Panel [`Panel`](https://panel.skyultraplus.com)
-* Canal de WhatsApp [`Canal sky`](https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0g)
-* Comunidad  [`Aquí`](https://chat.whatsapp.com/JPwcXvPEUwlEOyjI3BpYys)
-* Contacto(s) [`Gata Dios`](https://wa.me/message/B3KTM5XN2JMRD1) / [`Russell`](https://api.whatsapp.com/send/?phone=15167096032&text&type=phone_number&app_absent=0) / [`elrebelde21`](https://facebook.com/elrebelde21)
+* Canal de WhatsApp [`Canal sky`](https://chat.whatsapp.com/I7WiWv6cuLJE6x3DiThgzx)
+* Comunidad  [`Aquí`](https://chat.whatsapp.com/I7WiWv6cuLJE6x3DiThgzx)
+* Contacto(s) [`Gata Dios`](https://wa.me/messag/B3KTM5XN2JMRD1) / [`Russell`](https://chat.whatsapp.com/I7WiWv6cuLJE6x3DiThgzx) / [`elrebelde21`](https://facebook.com/elrebelde21)
 * Discord [`SkyUltraPlus`](https://discord.gg/Ph4eWsZ8)
 
 </details>
@@ -167,9 +167,9 @@ href="https://dash.skyultraplus.com/home"><img src="https://qu.ax/zFzXF.png" hei
 
 | APP | TIPO | ENLACE |
 |------|-------------|-------|
-| WhatsApp | 𝒞𝒶𝓃𝒶𝓁 𝒪𝒻𝒾𝒸𝒾𝒶𝓁 | [¡Click aquí!](https://whatsapp.com/channel/0029VapSIvR5EjxsD1B7hU3T) |
-| WhatsApp | 𝒢𝓇𝓊𝓅𝑜 𝒪𝒻𝒾𝒸𝒾𝒶𝓁 | [¡Click aquí!](https://chat.whatsapp.com/E78uEs2qJIE0apCLB7rSQZ) |
-| WhatsApp | 𝒞𝑜𝓂𝓊𝓃𝒾𝒹𝒶𝒹 𝒪𝒻𝒾𝒸𝒾𝒶𝓁 | [¡Click aquí!](https://chat.whatsapp.com/BuLovToIxdiLeycG2d3xJN) |
+| WhatsApp | 𝒞𝒶𝓃𝒶𝓁 𝒪𝒻𝒾𝒸𝒾𝒶𝓁 | [¡Click aquí!](https://chat.whatsapp.com/I7WiWv6cuLJE6x3DiThgzx) |
+| WhatsApp | 𝒢𝓇𝓊𝓅𝑜 𝒪𝒻𝒾𝒸𝒾𝒶𝓁 | [¡Click aquí!](https://chat.whatsapp.com/I7WiWv6cuLJE6x3DiThgzx) |
+| WhatsApp | 𝒞𝑜𝓂𝓊𝓃𝒾𝒹𝒶𝒹 𝒪𝒻𝒾𝒸𝒾𝒶𝓁 | [¡Click aquí!](https://chat.whatsapp.com/I7WiWv6cuLJE6x3DiThgzx) |
 
 </details>
 
